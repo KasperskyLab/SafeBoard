@@ -1,6 +1,6 @@
 SafeBoard Contest 2017
 =====================
-This is tasks and solutions for SafeBoard Contest 2017
+Tasks and solutions for SafeBoard Contest 2017
 
 
 License
