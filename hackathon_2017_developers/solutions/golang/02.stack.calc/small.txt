@@ -1,0 +1,7 @@
+6
+push 1
+push 3
+add
+push -10
+sub
+top
